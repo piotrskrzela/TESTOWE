@@ -69,16 +69,16 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>D:\c++ VisualStudio Programy\PunktyTralalala\Include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\c++ VisualStudio Programy\PunktyTralalala\Lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>E:\Programowanie C++ 3\Trojkat\Include</IncludePath>
+    <LibraryPath>E:\Programowanie C++ 3\Trojkat\Lib</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <IncludePath>D:\c++ VisualStudio Programy\PunktyTralalala\Include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\c++ VisualStudio Programy\PunktyTralalala\Lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>E:\Programowanie C++ 3\Trojkat\Include</IncludePath>
+    <LibraryPath>E:\Programowanie C++ 3\Trojkat\Lib</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>D:\c++ VisualStudio Programy\PunktyTralalala\Include;$(IncludePath)</IncludePath>
-    <LibraryPath>D:\c++ VisualStudio Programy\PunktyTralalala\Lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>E:\Programowanie C++ 3\Marcin Korepetycje Programowanie OP\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>E:\Programowanie C++ 3\Marcin Korepetycje Programowanie OP\Lib;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <IncludePath>D:\c++ VisualStudio Programy\PunktyTralalala\Include;$(IncludePath)</IncludePath>

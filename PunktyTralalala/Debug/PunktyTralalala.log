@@ -1,3 +1,2 @@
 ﻿  Punkt.cpp
-  PunktyTralalala.vcxproj -> D:\c++ VisualStudio Programy\PunktyTralalala\Debug\PunktyTralalala.exe
-  PunktyTralalala.vcxproj -> D:\c++ VisualStudio Programy\PunktyTralalala\Debug\PunktyTralalala.pdb (Partial PDB)
+e:\programowanie c++ 3\trojkat\include\gl\glew.h(1205): fatal error C1083: Cannot open include file: 'GL/glu.h': No such file or directory
